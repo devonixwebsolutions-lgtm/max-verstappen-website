@@ -1,0 +1,1397 @@
+{
+  "fixed": {
+    "portrait": "/assets/max/portrait-964441c9.webp",
+    "portrait-full": "/assets/max/portrait-full-fe0b61db.png",
+    "red-bull-hero": "/assets/max/red-bull-hero-68ae9eb9.jpg",
+    "casual-hero": "/assets/max/casual-hero-68d2b7ae.jpg",
+    "mv-logo": "/assets/max/mv-logo-ae9d7d41.svg",
+    "store-wordmark": "/assets/max/store-wordmark-b6b0b404.svg",
+    "partner-red-bull-racing": "/assets/max/partner-red-bull-racing-77ade49f.png",
+    "partner-red-bull": "/assets/max/partner-red-bull-ee4ae660.png",
+    "partner-alphatauri": "/assets/max/partner-alphatauri-e91d5e48.png",
+    "partner-viaplay": "/assets/max/partner-viaplay-5000b928.png",
+    "partner-heineken": "/assets/max/partner-heineken-1913b016.png",
+    "store-banner": "/assets/max/store-banner-882712e3.jpg",
+    "loading-car": "/assets/max/red-bull-rb22.webp",
+    "hero-head": "/assets/max/hero-head.png",
+    "hero-helmet": "/assets/max/hero-helmet.png"
+  },
+  "helmets": [
+    {
+      "name": "2026 Season Helmet",
+      "year": 2026,
+      "source": "https://store.verstappen.com/en/red-bull-racing/max-verstappen-red-bull-racing-2026-season-helmet-1:2-model/t-21192083+p-24669242012832+z-8-1522179246",
+      "frames": [
+        "/assets/max/2026-season-helmet-d34220b6.jpg"
+      ],
+      "replicaPhotography": true
+    },
+    {
+      "name": "2026 Orange Lion Helmet",
+      "year": 2026,
+      "source": "https://store.verstappen.com/en/red-bull-racing/max-verstappen-red-bull-racing-2026-orange-lion-helmet-1:2-model/t-21202094+p-021126908487484+z-9-2019580221",
+      "frames": [
+        "/assets/max/2026-orange-lion-helmet-fafdc34c.jpg"
+      ],
+      "replicaPhotography": true
+    },
+    {
+      "name": "2026 Dutch GP Helmet",
+      "year": 2026,
+      "source": "https://store.verstappen.com/en/red-bull-racing/max-verstappen-red-bull-racing-2026-dutch-gp-helmet-1:2-model/t-32537572+p-023371897321511+z-9-2397174044",
+      "frames": [
+        "/assets/max/2026-dutch-gp-helmet-3d525c58.jpg"
+      ],
+      "replicaPhotography": true
+    },
+    {
+      "name": "2026 GT3 Helmet",
+      "year": 2026,
+      "source": "https://store.verstappen.com/en/max-verstappen/max-verstappen-2026-gt3-helmet-1:2-model/t-5004096261+p-7900048998785+z-8-187601907",
+      "frames": [
+        "/assets/max/2026-gt3-helmet-51e2c1ef.png"
+      ],
+      "replicaPhotography": true
+    },
+    {
+      "name": "Season helmet 2025",
+      "year": 2025,
+      "source": "https://news.verstappen.com/en/gallerydetail/615",
+      "frames": [
+        "/assets/max/season-helmet-2025-view-1-dea62137.jpg",
+        "/assets/max/season-helmet-2025-view-2-5f91ce99.jpg",
+        "/assets/max/season-helmet-2025-view-3-4d7811fa.jpg",
+        "/assets/max/season-helmet-2025-view-4-d2794cdb.jpg"
+      ]
+    },
+    {
+      "name": "Special USA 2024 helmet",
+      "year": 2024,
+      "source": "https://news.verstappen.com/en/gallerydetail/576",
+      "frames": [
+        "/assets/max/special-usa-2024-helmet-view-1-0950fa0d.jpg",
+        "/assets/max/special-usa-2024-helmet-view-2-00d1f20a.jpg",
+        "/assets/max/special-usa-2024-helmet-view-3-3cccc2ac.jpg",
+        "/assets/max/special-usa-2024-helmet-view-4-ef96cc27.jpg"
+      ]
+    },
+    {
+      "name": "Special Orange Tribute helmet",
+      "year": 2024,
+      "source": "https://news.verstappen.com/en/gallerydetail/584",
+      "frames": [
+        "/assets/max/special-orange-tribute-helmet-view-1-e983325e.jpg",
+        "/assets/max/special-orange-tribute-helmet-view-2-8fd77d97.jpg",
+        "/assets/max/special-orange-tribute-helmet-view-3-8a6911dc.jpg",
+        "/assets/max/special-orange-tribute-helmet-view-4-6cb6ec61.jpg"
+      ]
+    },
+    {
+      "name": "Special Miami GP 2023 helmet",
+      "year": 2023,
+      "source": "https://news.verstappen.com/en/gallerydetail/537",
+      "frames": [
+        "/assets/max/special-miami-gp-2023-helmet-view-1-811ec5f4.jpg",
+        "/assets/max/special-miami-gp-2023-helmet-view-2-019d917f.jpg",
+        "/assets/max/special-miami-gp-2023-helmet-view-3-0340fa69.jpg",
+        "/assets/max/special-miami-gp-2023-helmet-view-4-c00650ab.jpg"
+      ]
+    },
+    {
+      "name": "Special Japan 2023 helmet",
+      "year": 2023,
+      "source": "https://news.verstappen.com/en/gallerydetail/552",
+      "frames": [
+        "/assets/max/special-japan-2023-helmet-view-1-b55c67ab.jpg",
+        "/assets/max/special-japan-2023-helmet-view-2-0e7ae094.jpg",
+        "/assets/max/special-japan-2023-helmet-view-3-922eb6a9.jpg",
+        "/assets/max/special-japan-2023-helmet-view-4-ebd4a360.jpg"
+      ]
+    },
+    {
+      "name": "Special retro helmet",
+      "year": 2023,
+      "source": "https://news.verstappen.com/en/gallerydetail/550",
+      "frames": [
+        "/assets/max/special-retro-helmet-view-1-e0a4deb0.jpg",
+        "/assets/max/special-retro-helmet-view-2-4602c9a1.jpg",
+        "/assets/max/special-retro-helmet-view-3-28c92160.jpg",
+        "/assets/max/special-retro-helmet-view-4-cc2d67a8.jpg"
+      ]
+    },
+    {
+      "name": "2022 Helmet Max Verstappen",
+      "year": 2022,
+      "source": "https://news.verstappen.com/en/gallerydetail/485",
+      "frames": [
+        "/assets/max/2022-helmet-max-verstappen-view-1-fb21c277.jpg",
+        "/assets/max/2022-helmet-max-verstappen-view-2-64680931.jpg",
+        "/assets/max/2022-helmet-max-verstappen-view-3-bd830eb9.jpg",
+        "/assets/max/2022-helmet-max-verstappen-view-4-aad409dd.jpg"
+      ]
+    },
+    {
+      "name": "Special Miami GP 2022 helmet",
+      "year": 2022,
+      "source": "https://news.verstappen.com/en/gallerydetail/496",
+      "frames": [
+        "/assets/max/special-miami-gp-2022-helmet-view-1-ec3656ff.jpg",
+        "/assets/max/special-miami-gp-2022-helmet-view-2-8c395100.jpg",
+        "/assets/max/special-miami-gp-2022-helmet-view-3-fff891e6.jpg",
+        "/assets/max/special-miami-gp-2022-helmet-view-4-e53c132c.jpg"
+      ]
+    },
+    {
+      "name": "Special Austrian 2022 helmet",
+      "year": 2022,
+      "source": "https://news.verstappen.com/en/gallerydetail/504",
+      "frames": [
+        "/assets/max/special-austrian-2022-helmet-view-1-c182907f.jpg",
+        "/assets/max/special-austrian-2022-helmet-view-2-d20f97e9.jpg",
+        "/assets/max/special-austrian-2022-helmet-view-3-3cce3b54.jpg",
+        "/assets/max/special-austrian-2022-helmet-view-4-9ffbbd19.jpg"
+      ]
+    },
+    {
+      "name": "Special Dutch GP 2022 helmet",
+      "year": 2022,
+      "source": "https://news.verstappen.com/en/gallerydetail/510",
+      "frames": [
+        "/assets/max/special-dutch-gp-2022-helmet-view-1-99a27d7c.jpg",
+        "/assets/max/special-dutch-gp-2022-helmet-view-2-e390fa6e.jpg",
+        "/assets/max/special-dutch-gp-2022-helmet-view-3-b2a5064f.jpg",
+        "/assets/max/special-dutch-gp-2022-helmet-view-4-ce2ba913.jpg"
+      ]
+    },
+    {
+      "name": "Helmet 2021 Max Verstappen",
+      "year": 2021,
+      "source": "https://news.verstappen.com/en/gallerydetail/445",
+      "frames": [
+        "/assets/max/helmet-2021-max-verstappen-view-1-93479cff.jpg",
+        "/assets/max/helmet-2021-max-verstappen-view-2-41f6a726.jpg",
+        "/assets/max/helmet-2021-max-verstappen-view-3-35b27646.jpg",
+        "/assets/max/helmet-2021-max-verstappen-view-4-b8554ff5.jpg"
+      ]
+    },
+    {
+      "name": "Special Austrian 2021 helmet",
+      "year": 2021,
+      "source": "https://news.verstappen.com/en/gallerydetail/459",
+      "frames": [
+        "/assets/max/special-austrian-2021-helmet-view-1-5f1025cc.jpg",
+        "/assets/max/special-austrian-2021-helmet-view-2-6f03406c.jpg",
+        "/assets/max/special-austrian-2021-helmet-view-3-bf322c35.jpg",
+        "/assets/max/special-austrian-2021-helmet-view-4-4f4fe4e5.jpg"
+      ]
+    },
+    {
+      "name": "Special Belgian GP 2021 helmet",
+      "year": 2021,
+      "source": "https://news.verstappen.com/en/gallerydetail/465",
+      "frames": [
+        "/assets/max/special-belgian-gp-2021-helmet-view-1-334294d4.jpg",
+        "/assets/max/special-belgian-gp-2021-helmet-view-2-a96d49f6.jpg",
+        "/assets/max/special-belgian-gp-2021-helmet-view-3-24e9a629.jpg",
+        "/assets/max/special-belgian-gp-2021-helmet-view-4-7330f72d.jpg"
+      ]
+    },
+    {
+      "name": "Special Dutch GP 2021 helmet",
+      "year": 2021,
+      "source": "https://news.verstappen.com/en/gallerydetail/468",
+      "frames": [
+        "/assets/max/special-dutch-gp-2021-helmet-view-1-5ddf5302.jpg",
+        "/assets/max/special-dutch-gp-2021-helmet-view-2-5d5fabe3.jpg",
+        "/assets/max/special-dutch-gp-2021-helmet-view-3-74fc8fc6.jpg",
+        "/assets/max/special-dutch-gp-2021-helmet-view-4-8faf1782.jpg"
+      ]
+    },
+    {
+      "name": "Special Brazil GP 2021 helmet",
+      "year": 2021,
+      "source": "https://news.verstappen.com/en/gallerydetail/477",
+      "frames": [
+        "/assets/max/special-brazil-gp-2021-helmet-view-1-737e5158.jpg",
+        "/assets/max/special-brazil-gp-2021-helmet-view-2-8ab01da5.jpg",
+        "/assets/max/special-brazil-gp-2021-helmet-view-3-194db088.jpg",
+        "/assets/max/special-brazil-gp-2021-helmet-view-4-fa23201e.jpg"
+      ]
+    },
+    {
+      "name": "2020 helmet Max Verstappen",
+      "year": 2020,
+      "source": "https://news.verstappen.com/en/gallerydetail/406",
+      "frames": [
+        "/assets/max/2020-helmet-max-verstappen-view-1-0b3b3bd6.jpg",
+        "/assets/max/2020-helmet-max-verstappen-view-2-13eccc72.jpg",
+        "/assets/max/2020-helmet-max-verstappen-view-3-a7543476.jpg",
+        "/assets/max/2020-helmet-max-verstappen-view-4-7e283e0f.jpg"
+      ]
+    },
+    {
+      "name": "Special red-white-blue 2020 helmet",
+      "year": 2020,
+      "source": "https://news.verstappen.com/en/gallerydetail/419",
+      "frames": [
+        "/assets/max/special-red-white-blue-2020-helmet-view-1-d723c023.jpg",
+        "/assets/max/special-red-white-blue-2020-helmet-view-2-e9bceb3e.jpg",
+        "/assets/max/special-red-white-blue-2020-helmet-view-3-7fa7a968.jpg",
+        "/assets/max/special-red-white-blue-2020-helmet-view-4-107f46e7.jpg"
+      ]
+    },
+    {
+      "name": "Helmet Max Verstappen - Austria 2019",
+      "year": 2019,
+      "source": "https://news.verstappen.com/en/gallerydetail/385",
+      "frames": [
+        "/assets/max/helmet-max-verstappen-austria-2019-view-1-53ea4a4b.jpg",
+        "/assets/max/helmet-max-verstappen-austria-2019-view-2-0f7b611d.jpg",
+        "/assets/max/helmet-max-verstappen-austria-2019-view-3-cdebff2b.jpg",
+        "/assets/max/helmet-max-verstappen-austria-2019-view-4-7bb664f5.jpg"
+      ]
+    },
+    {
+      "name": "Helmet Max Verstappen 2018",
+      "year": 2018,
+      "source": "https://news.verstappen.com/en/gallerydetail/328",
+      "frames": [
+        "/assets/max/helmet-max-verstappen-2018-view-1-0681382b.jpg",
+        "/assets/max/helmet-max-verstappen-2018-view-2-de948f67.jpg",
+        "/assets/max/helmet-max-verstappen-2018-view-3-3138180a.jpg",
+        "/assets/max/helmet-max-verstappen-2018-view-4-92930791.jpg"
+      ]
+    },
+    {
+      "name": "Orange Spa 2018 helmet",
+      "year": 2018,
+      "source": "https://news.verstappen.com/en/gallerydetail/348",
+      "frames": [
+        "/assets/max/orange-spa-2018-helmet-view-1-054ea0d1.jpg",
+        "/assets/max/orange-spa-2018-helmet-view-2-6a69d0b0.jpg",
+        "/assets/max/orange-spa-2018-helmet-view-3-f778f0c2.jpg",
+        "/assets/max/orange-spa-2018-helmet-view-4-3df2c4a2.jpg"
+      ]
+    },
+    {
+      "name": "2017 Season · scale replica",
+      "year": 2017,
+      "source": "https://store.verstappen.com/en/red-bull-racing/max-verstappen-red-bull-racing-2017-season-helmet-1:4-model/t-32205383+p-246670204906343+z-9-3832307507",
+      "frames": [
+        "/assets/max/2017-season-helmet-b5fb9e8b.jpg"
+      ],
+      "replicaPhotography": true
+    },
+    {
+      "name": "Helmet Max Verstappen 2017",
+      "year": 2017,
+      "source": "https://news.verstappen.com/en/gallerydetail/281",
+      "frames": [
+        "/assets/max/helmet-max-verstappen-2017-view-1-5241c5c1.jpg",
+        "/assets/max/helmet-max-verstappen-2017-view-2-ef9d2b70.jpg",
+        "/assets/max/helmet-max-verstappen-2017-view-3-c6cf5f16.jpg",
+        "/assets/max/helmet-max-verstappen-2017-view-4-ac2ece88.jpg"
+      ]
+    },
+    {
+      "name": "Helmet Max Verstappen 2017 Spa",
+      "year": 2017,
+      "source": "https://news.verstappen.com/en/gallerydetail/310",
+      "frames": [
+        "/assets/max/helmet-max-verstappen-2017-spa-view-1-ce436e8e.jpg",
+        "/assets/max/helmet-max-verstappen-2017-spa-view-2-33682ff1.jpg",
+        "/assets/max/helmet-max-verstappen-2017-spa-view-3-c4a8f22b.jpg",
+        "/assets/max/helmet-max-verstappen-2017-spa-view-4-e8603a20.jpg"
+      ]
+    },
+    {
+      "name": "Helmet Max Verstappen 2016 - RBR",
+      "year": 2016,
+      "source": "https://news.verstappen.com/en/gallerydetail/250",
+      "frames": [
+        "/assets/max/helmet-max-verstappen-2016-rbr-view-1-455df9da.jpg",
+        "/assets/max/helmet-max-verstappen-2016-rbr-view-2-922cb94c.jpg",
+        "/assets/max/helmet-max-verstappen-2016-rbr-view-3-2f91c0e1.jpg",
+        "/assets/max/helmet-max-verstappen-2016-rbr-view-4-3a061934.jpg"
+      ]
+    },
+    {
+      "name": "Verstappen Special Spa Helmet",
+      "year": 2016,
+      "source": "https://news.verstappen.com/en/gallerydetail/264",
+      "frames": [
+        "/assets/max/verstappen-special-spa-helmet-view-1-59b48293.jpg",
+        "/assets/max/verstappen-special-spa-helmet-view-2-b393b1e3.jpg",
+        "/assets/max/verstappen-special-spa-helmet-view-3-a3b9cfc4.jpg",
+        "/assets/max/verstappen-special-spa-helmet-view-4-cc9f894d.jpg"
+      ]
+    },
+    {
+      "name": "Helmet Max Verstappen 2015",
+      "year": 2015,
+      "source": "https://news.verstappen.com/en/gallerydetail/189",
+      "frames": [
+        "/assets/max/helmet-max-verstappen-2015-view-1-48ebf579.jpg",
+        "/assets/max/helmet-max-verstappen-2015-view-2-9495d700.jpg",
+        "/assets/max/helmet-max-verstappen-2015-view-3-82d3b484.jpg",
+        "/assets/max/helmet-max-verstappen-2015-view-4-fe2576c2.jpg"
+      ]
+    },
+    {
+      "name": "2015 Season · later finish",
+      "year": 2015,
+      "source": "https://news.verstappen.com/en/gallerydetail/219",
+      "frames": [
+        "/assets/max/helmet-max-verstappen-2015-view-1-e24c2926.jpg",
+        "/assets/max/helmet-max-verstappen-2015-view-2-5e2f9083.jpg",
+        "/assets/max/helmet-max-verstappen-2015-view-3-19bc98ef.jpg",
+        "/assets/max/helmet-max-verstappen-2015-view-4-e1ce2c90.jpg"
+      ]
+    },
+    {
+      "name": "2014 Formula 3 Helmet",
+      "year": 2014,
+      "source": "https://store.verstappen.com/en/formula-3-merchandise/max-verstappen-2014-formula-3-helmet-1:4-model/t-3872378834+p-80885864059768+z-9-2570518615",
+      "frames": [
+        "/assets/max/2014-formula-3-helmet-aa8b1c7e.jpg"
+      ],
+      "replicaPhotography": true
+    }
+  ],
+  "photos": [
+    {
+      "src": "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-1-d8770553.jpg",
+      "caption": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur",
+      "source": "https://news.verstappen.com/en/gallerydetail/704",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-2-31e33314.jpg",
+      "caption": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur",
+      "source": "https://news.verstappen.com/en/gallerydetail/704",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-3-8c71419f.jpg",
+      "caption": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur",
+      "source": "https://news.verstappen.com/en/gallerydetail/704",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-4-c1a6a1d9.jpg",
+      "caption": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur",
+      "source": "https://news.verstappen.com/en/gallerydetail/704",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-5-f96fe54d.jpg",
+      "caption": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur",
+      "source": "https://news.verstappen.com/en/gallerydetail/704",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-6-ab65de71.jpg",
+      "caption": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur",
+      "source": "https://news.verstappen.com/en/gallerydetail/704",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/max-vs-100-photo-1-eb27c034.jpg",
+      "caption": "Max vs 100",
+      "source": "https://news.verstappen.com/en/gallerydetail/701",
+      "offTrack": true
+    },
+    {
+      "src": "/assets/max/max-vs-100-photo-2-8f5f72d7.jpg",
+      "caption": "Max vs 100",
+      "source": "https://news.verstappen.com/en/gallerydetail/701",
+      "offTrack": true
+    },
+    {
+      "src": "/assets/max/max-vs-100-photo-3-a81ee99d.jpg",
+      "caption": "Max vs 100",
+      "source": "https://news.verstappen.com/en/gallerydetail/701",
+      "offTrack": true
+    },
+    {
+      "src": "/assets/max/max-vs-100-photo-4-5b311791.jpg",
+      "caption": "Max vs 100",
+      "source": "https://news.verstappen.com/en/gallerydetail/701",
+      "offTrack": true
+    },
+    {
+      "src": "/assets/max/max-vs-100-photo-5-13d59643.jpg",
+      "caption": "Max vs 100",
+      "source": "https://news.verstappen.com/en/gallerydetail/701",
+      "offTrack": true
+    },
+    {
+      "src": "/assets/max/max-vs-100-photo-6-6a2b496b.jpg",
+      "caption": "Max vs 100",
+      "source": "https://news.verstappen.com/en/gallerydetail/701",
+      "offTrack": true
+    },
+    {
+      "src": "/assets/max/formula-1-gp-italy-monza-photo-1-6a5d0cb9.jpg",
+      "caption": "Formula 1 GP Italy - Monza",
+      "source": "https://news.verstappen.com/en/gallerydetail/699",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-italy-monza-photo-2-04e32d2f.jpg",
+      "caption": "Formula 1 GP Italy - Monza",
+      "source": "https://news.verstappen.com/en/gallerydetail/699",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-italy-monza-photo-3-ebc10f37.jpg",
+      "caption": "Formula 1 GP Italy - Monza",
+      "source": "https://news.verstappen.com/en/gallerydetail/699",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-italy-monza-photo-4-a9b2d84a.jpg",
+      "caption": "Formula 1 GP Italy - Monza",
+      "source": "https://news.verstappen.com/en/gallerydetail/699",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-italy-monza-photo-5-e8172294.jpg",
+      "caption": "Formula 1 GP Italy - Monza",
+      "source": "https://news.verstappen.com/en/gallerydetail/699",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-italy-monza-photo-6-2173fa23.jpg",
+      "caption": "Formula 1 GP Italy - Monza",
+      "source": "https://news.verstappen.com/en/gallerydetail/699",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-dutch-gp-zandvoort-photo-1-ee192d32.jpg",
+      "caption": "Formula 1 Dutch GP - Zandvoort",
+      "source": "https://news.verstappen.com/en/gallerydetail/698",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-dutch-gp-zandvoort-photo-2-6868cd3f.jpg",
+      "caption": "Formula 1 Dutch GP - Zandvoort",
+      "source": "https://news.verstappen.com/en/gallerydetail/698",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-dutch-gp-zandvoort-photo-3-9e01cca7.jpg",
+      "caption": "Formula 1 Dutch GP - Zandvoort",
+      "source": "https://news.verstappen.com/en/gallerydetail/698",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-dutch-gp-zandvoort-photo-4-91ee05ed.jpg",
+      "caption": "Formula 1 Dutch GP - Zandvoort",
+      "source": "https://news.verstappen.com/en/gallerydetail/698",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-dutch-gp-zandvoort-photo-5-cc8327bd.jpg",
+      "caption": "Formula 1 Dutch GP - Zandvoort",
+      "source": "https://news.verstappen.com/en/gallerydetail/698",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-dutch-gp-zandvoort-photo-6-a9bb9a35.jpg",
+      "caption": "Formula 1 Dutch GP - Zandvoort",
+      "source": "https://news.verstappen.com/en/gallerydetail/698",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-great-britain-silverstone-photo-1-7cc2c2da.jpg",
+      "caption": "Formula 1 GP Great Britain - Silverstone",
+      "source": "https://news.verstappen.com/en/gallerydetail/695",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-great-britain-silverstone-photo-2-442c23bc.jpg",
+      "caption": "Formula 1 GP Great Britain - Silverstone",
+      "source": "https://news.verstappen.com/en/gallerydetail/695",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-great-britain-silverstone-photo-3-ce8339bd.jpg",
+      "caption": "Formula 1 GP Great Britain - Silverstone",
+      "source": "https://news.verstappen.com/en/gallerydetail/695",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-great-britain-silverstone-photo-4-d86f4dd1.jpg",
+      "caption": "Formula 1 GP Great Britain - Silverstone",
+      "source": "https://news.verstappen.com/en/gallerydetail/695",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-great-britain-silverstone-photo-5-f2f93351.jpg",
+      "caption": "Formula 1 GP Great Britain - Silverstone",
+      "source": "https://news.verstappen.com/en/gallerydetail/695",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-great-britain-silverstone-photo-6-a3c4c063.jpg",
+      "caption": "Formula 1 GP Great Britain - Silverstone",
+      "source": "https://news.verstappen.com/en/gallerydetail/695",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-austria-red-bull-ring-photo-1-11f6363e.jpg",
+      "caption": "Formula 1 GP Austria - Red Bull Ring",
+      "source": "https://news.verstappen.com/en/gallerydetail/694",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-austria-red-bull-ring-photo-2-0a0cf001.jpg",
+      "caption": "Formula 1 GP Austria - Red Bull Ring",
+      "source": "https://news.verstappen.com/en/gallerydetail/694",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-austria-red-bull-ring-photo-3-e14ed7a8.jpg",
+      "caption": "Formula 1 GP Austria - Red Bull Ring",
+      "source": "https://news.verstappen.com/en/gallerydetail/694",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-austria-red-bull-ring-photo-4-44e3c7bb.jpg",
+      "caption": "Formula 1 GP Austria - Red Bull Ring",
+      "source": "https://news.verstappen.com/en/gallerydetail/694",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-austria-red-bull-ring-photo-5-30ee9c77.jpg",
+      "caption": "Formula 1 GP Austria - Red Bull Ring",
+      "source": "https://news.verstappen.com/en/gallerydetail/694",
+      "offTrack": false
+    },
+    {
+      "src": "/assets/max/formula-1-gp-austria-red-bull-ring-photo-6-6de1f74d.jpg",
+      "caption": "Formula 1 GP Austria - Red Bull Ring",
+      "source": "https://news.verstappen.com/en/gallerydetail/694",
+      "offTrack": false
+    }
+  ],
+  "assets": {
+    "/assets/max/helmet-max-verstappen-2015-view-1-48ebf579.jpg": {
+      "url": "https://news.verstappen.com/img/2015/Helm_Max_Verstappen_2015/527733359PF036_Australian_F-20b.jpg",
+      "label": "Helmet Max Verstappen 2015 view 1",
+      "bytes": 197808
+    },
+    "/assets/max/helmet-max-verstappen-2015-view-2-9495d700.jpg": {
+      "url": "https://news.verstappen.com/img/2015/Helm_Max_Verstappen_2015/527733359PF035_Australian_F-19b.jpg",
+      "label": "Helmet Max Verstappen 2015 view 2",
+      "bytes": 218373
+    },
+    "/assets/max/helmet-max-verstappen-2015-view-1-e24c2926.jpg": {
+      "url": "https://news.verstappen.com/img/2015/Helm_Max_Verstappen_2015/Max_Verstappen_helmet_09-18b.jpg",
+      "label": "Helmet Max Verstappen 2015 view 1",
+      "bytes": 229581
+    },
+    "/assets/max/helmet-max-verstappen-2015-view-2-5e2f9083.jpg": {
+      "url": "https://news.verstappen.com/img/2015/Helm_Max_Verstappen_2015/Max_Verstappen_helmet_08-17b.jpg",
+      "label": "Helmet Max Verstappen 2015 view 2",
+      "bytes": 224392
+    },
+    "/assets/max/helmet-max-verstappen-2016-rbr-view-1-455df9da.jpg": {
+      "url": "https://news.verstappen.com/img/2016/Helm_Max_Verstappen_2016_-_RBR/2016_RBR_Max_Verstappen_helmet_(8)-73b.jpg",
+      "label": "Helmet Max Verstappen 2016 - RBR view 1",
+      "bytes": 203843
+    },
+    "/assets/max/helmet-max-verstappen-2016-rbr-view-2-922cb94c.jpg": {
+      "url": "https://news.verstappen.com/img/2016/Helm_Max_Verstappen_2016_-_RBR/2016_RBR_Max_Verstappen_helmet_(7)-72b.jpg",
+      "label": "Helmet Max Verstappen 2016 - RBR view 2",
+      "bytes": 222424
+    },
+    "/assets/max/helmet-max-verstappen-2017-view-1-5241c5c1.jpg": {
+      "url": "https://news.verstappen.com/img/2017/Helm_Max_Verstappen_2017/Helmet_Max_Verstappen_p1-8b.jpg",
+      "label": "Helmet Max Verstappen 2017 view 1",
+      "bytes": 288874
+    },
+    "/assets/max/helmet-max-verstappen-2017-view-2-ef9d2b70.jpg": {
+      "url": "https://news.verstappen.com/img/2017/Helm_Max_Verstappen_2017/Helmet_Max_Verstappen_p2-7b.jpg",
+      "label": "Helmet Max Verstappen 2017 view 2",
+      "bytes": 250084
+    },
+    "/assets/max/verstappen-special-spa-helmet-view-1-59b48293.jpg": {
+      "url": "https://news.verstappen.com/img/2016/Verstappen_Speciale_Spa_Helm/2016_Verstappen_Helmet_Spa_7-53b.jpg",
+      "label": "Verstappen Special Spa Helmet view 1",
+      "bytes": 461424
+    },
+    "/assets/max/verstappen-special-spa-helmet-view-2-b393b1e3.jpg": {
+      "url": "https://news.verstappen.com/img/2016/Verstappen_Speciale_Spa_Helm/2016_Verstappen_Helmet_Spa_6-52b.jpg",
+      "label": "Verstappen Special Spa Helmet view 2",
+      "bytes": 315989
+    },
+    "/assets/max/helmet-max-verstappen-2018-view-1-0681382b.jpg": {
+      "url": "https://news.verstappen.com/img/2018/Helm_Max_Verstappen_2018/AP-1UZ1NU49S1W11_hires_jpeg_24bit_rgb-5b.jpg",
+      "label": "Helmet Max Verstappen 2018 view 1",
+      "bytes": 90282
+    },
+    "/assets/max/helmet-max-verstappen-2018-view-2-de948f67.jpg": {
+      "url": "https://news.verstappen.com/img/2018/Helm_Max_Verstappen_2018/AP-1UZ1NTUS51W11_hires_jpeg_24bit_rgb-4b.jpg",
+      "label": "Helmet Max Verstappen 2018 view 2",
+      "bytes": 106818
+    },
+    "/assets/max/helmet-max-verstappen-2017-spa-view-1-ce436e8e.jpg": {
+      "url": "https://news.verstappen.com/img/2017/Helm_Max_Verstappen_2017_Spa/MaxVerstappenHelmetSpa2017-11-12b.jpg",
+      "label": "Helmet Max Verstappen 2017 Spa view 1",
+      "bytes": 301669
+    },
+    "/assets/max/helmet-max-verstappen-2017-spa-view-2-33682ff1.jpg": {
+      "url": "https://news.verstappen.com/img/2017/Helm_Max_Verstappen_2017_Spa/MaxVerstappenHelmetSpa2017-10-11b.jpg",
+      "label": "Helmet Max Verstappen 2017 Spa view 2",
+      "bytes": 379377
+    },
+    "/assets/max/orange-spa-2018-helmet-view-1-054ea0d1.jpg": {
+      "url": "https://news.verstappen.com/img/2018/Oranje_Spa_2018_helm/MV_Spa_2018_helmet_(11)-27b.jpg",
+      "label": "Orange Spa 2018 helmet view 1",
+      "bytes": 355665
+    },
+    "/assets/max/orange-spa-2018-helmet-view-2-6a69d0b0.jpg": {
+      "url": "https://news.verstappen.com/img/2018/Oranje_Spa_2018_helm/MV_Spa_2018_helmet_(10)-26b.jpg",
+      "label": "Orange Spa 2018 helmet view 2",
+      "bytes": 344417
+    },
+    "/assets/max/helmet-max-verstappen-austria-2019-view-1-53ea4a4b.jpg": {
+      "url": "https://news.verstappen.com/img/2019/Helm_Max_Verstappen_-_Oostenrijk_2019/AT8I8460_2019062710217608-32b.jpg",
+      "label": "Helmet Max Verstappen - Austria 2019 view 1",
+      "bytes": 719356
+    },
+    "/assets/max/helmet-max-verstappen-austria-2019-view-2-0f7b611d.jpg": {
+      "url": "https://news.verstappen.com/img/2019/Helm_Max_Verstappen_-_Oostenrijk_2019/AT8I8442_2019062710255972-31b.jpg",
+      "label": "Helmet Max Verstappen - Austria 2019 view 2",
+      "bytes": 711567
+    },
+    "/assets/max/helmet-max-verstappen-2018-view-3-3138180a.jpg": {
+      "url": "https://news.verstappen.com/img/2018/Helm_Max_Verstappen_2018/AP-1UZ1NTKRD1W11_hires_jpeg_24bit_rgb-3b.jpg",
+      "label": "Helmet Max Verstappen 2018 view 3",
+      "bytes": 75293
+    },
+    "/assets/max/helmet-max-verstappen-2015-view-3-82d3b484.jpg": {
+      "url": "https://news.verstappen.com/img/2015/Helm_Max_Verstappen_2015/527733359PF034_Australian_F-18b.jpg",
+      "label": "Helmet Max Verstappen 2015 view 3",
+      "bytes": 225763
+    },
+    "/assets/max/helmet-max-verstappen-2016-rbr-view-3-2f91c0e1.jpg": {
+      "url": "https://news.verstappen.com/img/2016/Helm_Max_Verstappen_2016_-_RBR/2016_RBR_Max_Verstappen_helmet_(6)-71b.jpg",
+      "label": "Helmet Max Verstappen 2016 - RBR view 3",
+      "bytes": 240796
+    },
+    "/assets/max/helmet-max-verstappen-2017-spa-view-3-c4a8f22b.jpg": {
+      "url": "https://news.verstappen.com/img/2017/Helm_Max_Verstappen_2017_Spa/MaxVerstappenHelmetSpa2017-09-10b.jpg",
+      "label": "Helmet Max Verstappen 2017 Spa view 3",
+      "bytes": 406100
+    },
+    "/assets/max/helmet-max-verstappen-2017-view-3-c6cf5f16.jpg": {
+      "url": "https://news.verstappen.com/img/2017/Helm_Max_Verstappen_2017/Helmet_Max_Verstappen_p3-6b.jpg",
+      "label": "Helmet Max Verstappen 2017 view 3",
+      "bytes": 265985
+    },
+    "/assets/max/helmet-max-verstappen-2015-view-3-19bc98ef.jpg": {
+      "url": "https://news.verstappen.com/img/2015/Helm_Max_Verstappen_2015/Max_Verstappen_helmet_07-16b.jpg",
+      "label": "Helmet Max Verstappen 2015 view 3",
+      "bytes": 233388
+    },
+    "/assets/max/helmet-max-verstappen-austria-2019-view-3-cdebff2b.jpg": {
+      "url": "https://news.verstappen.com/img/2019/Helm_Max_Verstappen_-_Oostenrijk_2019/AT8I8336-30b.jpg",
+      "label": "Helmet Max Verstappen - Austria 2019 view 3",
+      "bytes": 461872
+    },
+    "/assets/max/verstappen-special-spa-helmet-view-3-a3b9cfc4.jpg": {
+      "url": "https://news.verstappen.com/img/2016/Verstappen_Speciale_Spa_Helm/2016_Verstappen_Helmet_Spa_5-48b.jpg",
+      "label": "Verstappen Special Spa Helmet view 3",
+      "bytes": 348199
+    },
+    "/assets/max/orange-spa-2018-helmet-view-3-f778f0c2.jpg": {
+      "url": "https://news.verstappen.com/img/2018/Oranje_Spa_2018_helm/MV_Spa_2018_helmet_(09)-25b.jpg",
+      "label": "Orange Spa 2018 helmet view 3",
+      "bytes": 352925
+    },
+    "/assets/max/helmet-max-verstappen-2018-view-4-92930791.jpg": {
+      "url": "https://news.verstappen.com/img/2018/Helm_Max_Verstappen_2018/AP-1UZ1NTBE91W11_hires_jpeg_24bit_rgb-2b.jpg",
+      "label": "Helmet Max Verstappen 2018 view 4",
+      "bytes": 96625
+    },
+    "/assets/max/special-red-white-blue-2020-helmet-view-1-d723c023.jpg": {
+      "url": "https://news.verstappen.com/img/2020/Speciale_rood-wit-blauwe_2020_helm/5K8A0309_2020070215810325-23b.jpg",
+      "label": "Special red-white-blue 2020 helmet view 1",
+      "bytes": 480349
+    },
+    "/assets/max/special-red-white-blue-2020-helmet-view-2-e9bceb3e.jpg": {
+      "url": "https://news.verstappen.com/img/2020/Speciale_rood-wit-blauwe_2020_helm/5K8A0306_2020070215800325-22b.jpg",
+      "label": "Special red-white-blue 2020 helmet view 2",
+      "bytes": 504790
+    },
+    "/assets/max/verstappen-special-spa-helmet-view-4-cc9f894d.jpg": {
+      "url": "https://news.verstappen.com/img/2016/Verstappen_Speciale_Spa_Helm/2016_Verstappen_Helmet_Spa_4-47b.jpg",
+      "label": "Verstappen Special Spa Helmet view 4",
+      "bytes": 302107
+    },
+    "/assets/max/orange-spa-2018-helmet-view-4-3df2c4a2.jpg": {
+      "url": "https://news.verstappen.com/img/2018/Oranje_Spa_2018_helm/MV_Spa_2018_helmet_(08)-24b.jpg",
+      "label": "Orange Spa 2018 helmet view 4",
+      "bytes": 363581
+    },
+    "/assets/max/helmet-max-verstappen-austria-2019-view-4-7bb664f5.jpg": {
+      "url": "https://news.verstappen.com/img/2019/Helm_Max_Verstappen_-_Oostenrijk_2019/AT8I8332-29b.jpg",
+      "label": "Helmet Max Verstappen - Austria 2019 view 4",
+      "bytes": 501224
+    },
+    "/assets/max/helmet-max-verstappen-2017-view-4-ac2ece88.jpg": {
+      "url": "https://news.verstappen.com/img/2017/Helm_Max_Verstappen_2017/Helmet_Max_Verstappen_p4-4b.jpg",
+      "label": "Helmet Max Verstappen 2017 view 4",
+      "bytes": 321926
+    },
+    "/assets/max/helmet-max-verstappen-2015-view-4-fe2576c2.jpg": {
+      "url": "https://news.verstappen.com/img/2015/Helm_Max_Verstappen_2015/527733359PF033_Australian_F-17b.jpg",
+      "label": "Helmet Max Verstappen 2015 view 4",
+      "bytes": 222848
+    },
+    "/assets/max/2020-helmet-max-verstappen-view-1-0b3b3bd6.jpg": {
+      "url": "https://news.verstappen.com/img/2020/2020_helm_Max_Verstappen/MV_Helmet_2020_1-15b.jpg",
+      "label": "2020 helmet Max Verstappen view 1",
+      "bytes": 428551
+    },
+    "/assets/max/helmet-max-verstappen-2016-rbr-view-4-3a061934.jpg": {
+      "url": "https://news.verstappen.com/img/2016/Helm_Max_Verstappen_2016_-_RBR/2016_RBR_Max_Verstappen_helmet_(5)-70b.jpg",
+      "label": "Helmet Max Verstappen 2016 - RBR view 4",
+      "bytes": 223365
+    },
+    "/assets/max/helmet-max-verstappen-2015-view-4-e1ce2c90.jpg": {
+      "url": "https://news.verstappen.com/img/2015/Helm_Max_Verstappen_2015/Max_Verstappen_helmet_06-15b.jpg",
+      "label": "Helmet Max Verstappen 2015 view 4",
+      "bytes": 220028
+    },
+    "/assets/max/helmet-max-verstappen-2017-spa-view-4-e8603a20.jpg": {
+      "url": "https://news.verstappen.com/img/2017/Helm_Max_Verstappen_2017_Spa/MaxVerstappenHelmetSpa2017-08-9b.jpg",
+      "label": "Helmet Max Verstappen 2017 Spa view 4",
+      "bytes": 390741
+    },
+    "/assets/max/special-red-white-blue-2020-helmet-view-3-7fa7a968.jpg": {
+      "url": "https://news.verstappen.com/img/2020/Speciale_rood-wit-blauwe_2020_helm/5K8A0304_2020070215750317-21b.jpg",
+      "label": "Special red-white-blue 2020 helmet view 3",
+      "bytes": 440835
+    },
+    "/assets/max/2020-helmet-max-verstappen-view-2-13eccc72.jpg": {
+      "url": "https://news.verstappen.com/img/2020/2020_helm_Max_Verstappen/MV_Helmet_2020_2-14b.jpg",
+      "label": "2020 helmet Max Verstappen view 2",
+      "bytes": 484795
+    },
+    "/assets/max/special-brazil-gp-2021-helmet-view-1-737e5158.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Brazilie_GP_2021_helm/12MT013574_2021111113400848_2021111143523436-15b.jpg",
+      "label": "Special Brazil GP 2021 helmet view 1",
+      "bytes": 798838
+    },
+    "/assets/max/special-dutch-gp-2021-helmet-view-1-5ddf5302.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Dutch_GP_2021_helm/12MT012346_20210826111427846_20210826112209542_copy-37b.jpg",
+      "label": "Special Dutch GP 2021 helmet view 1",
+      "bytes": 682867
+    },
+    "/assets/max/special-red-white-blue-2020-helmet-view-4-107f46e7.jpg": {
+      "url": "https://news.verstappen.com/img/2020/Speciale_rood-wit-blauwe_2020_helm/5K8A0301_2020070215745323-20b.jpg",
+      "label": "Special red-white-blue 2020 helmet view 4",
+      "bytes": 410632
+    },
+    "/assets/max/2020-helmet-max-verstappen-view-3-a7543476.jpg": {
+      "url": "https://news.verstappen.com/img/2020/2020_helm_Max_Verstappen/MV_Helmet_2020_3-13b.jpg",
+      "label": "2020 helmet Max Verstappen view 3",
+      "bytes": 413966
+    },
+    "/assets/max/2022-helmet-max-verstappen-view-1-fb21c277.jpg": {
+      "url": "https://news.verstappen.com/img/2022/2022_Helm_Max_Verstappen/_Verstappen_Helmet-Reveal-2022_11-11b.jpg",
+      "label": "2022 Helmet Max Verstappen view 1",
+      "bytes": 592589
+    },
+    "/assets/max/helmet-2021-max-verstappen-view-1-93479cff.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Helm_2021_Max_Verstappen/MT021196_2021022442133240-9b.jpg",
+      "label": "Helmet 2021 Max Verstappen view 1",
+      "bytes": 485635
+    },
+    "/assets/max/special-miami-gp-2022-helmet-view-1-ec3656ff.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Miami_GP_2022_helm/17_0L6A3453_19002954-877d-4d42-a10e-16b.jpg",
+      "label": "Special Miami GP 2022 helmet view 1",
+      "bytes": 610647
+    },
+    "/assets/max/special-austrian-2021-helmet-view-1-5f1025cc.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Oostenrijk_2021_helm/MT012977_2021062412551267-12b.jpg",
+      "label": "Special Austrian 2021 helmet view 1",
+      "bytes": 731244
+    },
+    "/assets/max/special-austrian-2022-helmet-view-1-c182907f.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Oostenrijk_2022_helm/12PP_220614_F1DS_0264-12b.jpg",
+      "label": "Special Austrian 2022 helmet view 1",
+      "bytes": 566868
+    },
+    "/assets/max/special-belgian-gp-2021-helmet-view-1-334294d4.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Belgie_GP_2021_helm/11MT012366_20210826111427847_20210826112204546_copy-11b.jpg",
+      "label": "Special Belgian GP 2021 helmet view 1",
+      "bytes": 670663
+    },
+    "/assets/max/helmet-2021-max-verstappen-view-2-41f6a726.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Helm_2021_Max_Verstappen/MT021193_2021022442258253-8b.jpg",
+      "label": "Helmet 2021 Max Verstappen view 2",
+      "bytes": 476322
+    },
+    "/assets/max/special-brazil-gp-2021-helmet-view-2-8ab01da5.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Brazilie_GP_2021_helm/11MT013593_2021111113400849_2021111143528421-14b.jpg",
+      "label": "Special Brazil GP 2021 helmet view 2",
+      "bytes": 768759
+    },
+    "/assets/max/2022-helmet-max-verstappen-view-2-64680931.jpg": {
+      "url": "https://news.verstappen.com/img/2022/2022_Helm_Max_Verstappen/_Verstappen_Helmet-Reveal-2022_10-10b.jpg",
+      "label": "2022 Helmet Max Verstappen view 2",
+      "bytes": 585103
+    },
+    "/assets/max/special-belgian-gp-2021-helmet-view-2-a96d49f6.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Belgie_GP_2021_helm/10MT012371_20210826111427847_20210826112214546_copy-10b.jpg",
+      "label": "Special Belgian GP 2021 helmet view 2",
+      "bytes": 715398
+    },
+    "/assets/max/special-austrian-2022-helmet-view-2-d20f97e9.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Oostenrijk_2022_helm/11PP_220614_F1DS_1607-11b.jpg",
+      "label": "Special Austrian 2022 helmet view 2",
+      "bytes": 554287
+    },
+    "/assets/max/special-dutch-gp-2021-helmet-view-2-5d5fabe3.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Dutch_GP_2021_helm/11MT012356_20210826111427847_20210826112204546_copy-36b.jpg",
+      "label": "Special Dutch GP 2021 helmet view 2",
+      "bytes": 695082
+    },
+    "/assets/max/special-miami-gp-2022-helmet-view-2-8c395100.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Miami_GP_2022_helm/16_0L8A2008_8e23b7b3-2852-4508-9728-15b.jpg",
+      "label": "Special Miami GP 2022 helmet view 2",
+      "bytes": 582925
+    },
+    "/assets/max/special-austrian-2021-helmet-view-2-6f03406c.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Oostenrijk_2021_helm/9MT012741_20210624122739711_20210624122835808_copy-10b.jpg",
+      "label": "Special Austrian 2021 helmet view 2",
+      "bytes": 481432
+    },
+    "/assets/max/2020-helmet-max-verstappen-view-4-7e283e0f.jpg": {
+      "url": "https://news.verstappen.com/img/2020/2020_helm_Max_Verstappen/MV_Helmet_2020_4-12b.jpg",
+      "label": "2020 helmet Max Verstappen view 4",
+      "bytes": 479894
+    },
+    "/assets/max/special-dutch-gp-2022-helmet-view-1-99a27d7c.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Dutch_GP_2022_helm/MV_DGP_2022_Helmet_27-28b.jpg",
+      "label": "Special Dutch GP 2022 helmet view 1",
+      "bytes": 683056
+    },
+    "/assets/max/special-miami-gp-2023-helmet-view-1-811ec5f4.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_Miami_GP_2023_helm/19_MV_Miami_helmet_2023-18b.jpg",
+      "label": "Special Miami GP 2023 helmet view 1",
+      "bytes": 549703
+    },
+    "/assets/max/special-austrian-2021-helmet-view-3-bf322c35.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Oostenrijk_2021_helm/8MT012745_20210624122739711_20210624122935882_copy-9b.jpg",
+      "label": "Special Austrian 2021 helmet view 3",
+      "bytes": 513983
+    },
+    "/assets/max/special-miami-gp-2022-helmet-view-3-fff891e6.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Miami_GP_2022_helm/15_0L6A3249_a33c0df5-0e1e-4137-b25c-14b.jpg",
+      "label": "Special Miami GP 2022 helmet view 3",
+      "bytes": 478370
+    },
+    "/assets/max/special-brazil-gp-2021-helmet-view-3-194db088.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Brazilie_GP_2021_helm/10ED-MT013580_2021111110725367_2021111140923208-13b.jpg",
+      "label": "Special Brazil GP 2021 helmet view 3",
+      "bytes": 507559
+    },
+    "/assets/max/special-dutch-gp-2021-helmet-view-3-74fc8fc6.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Dutch_GP_2021_helm/10MT012440_20210826111427851_20210826112159597_copy-35b.jpg",
+      "label": "Special Dutch GP 2021 helmet view 3",
+      "bytes": 471331
+    },
+    "/assets/max/2022-helmet-max-verstappen-view-3-bd830eb9.jpg": {
+      "url": "https://news.verstappen.com/img/2022/2022_Helm_Max_Verstappen/_Verstappen_Helmet-Reveal-2022_09-9b.jpg",
+      "label": "2022 Helmet Max Verstappen view 3",
+      "bytes": 523514
+    },
+    "/assets/max/special-austrian-2022-helmet-view-3-3cce3b54.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Oostenrijk_2022_helm/10PP_220614_F1DS_0246-10b.jpg",
+      "label": "Special Austrian 2022 helmet view 3",
+      "bytes": 662293
+    },
+    "/assets/max/special-belgian-gp-2021-helmet-view-3-24e9a629.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Belgie_GP_2021_helm/09MT012374_20210826111427848_20210826112159594_copy-9b.jpg",
+      "label": "Special Belgian GP 2021 helmet view 3",
+      "bytes": 496463
+    },
+    "/assets/max/helmet-2021-max-verstappen-view-3-35b27646.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Helm_2021_Max_Verstappen/MT021185_2021022442403291-7b.jpg",
+      "label": "Helmet 2021 Max Verstappen view 3",
+      "bytes": 465061
+    },
+    "/assets/max/special-dutch-gp-2022-helmet-view-2-e390fa6e.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Dutch_GP_2022_helm/MV_DGP_2022_Helmet_26-27b.jpg",
+      "label": "Special Dutch GP 2022 helmet view 2",
+      "bytes": 704116
+    },
+    "/assets/max/special-austrian-2021-helmet-view-4-4f4fe4e5.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Oostenrijk_2021_helm/7MT012748_20210624122739711_20210624122950835_copy-8b.jpg",
+      "label": "Special Austrian 2021 helmet view 4",
+      "bytes": 530754
+    },
+    "/assets/max/2022-helmet-max-verstappen-view-4-aad409dd.jpg": {
+      "url": "https://news.verstappen.com/img/2022/2022_Helm_Max_Verstappen/_Verstappen_Helmet-Reveal-2022_08-8b.jpg",
+      "label": "2022 Helmet Max Verstappen view 4",
+      "bytes": 508630
+    },
+    "/assets/max/special-miami-gp-2022-helmet-view-4-e53c132c.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Miami_GP_2022_helm/14_0L6A3259_48f2e1e5-4b2d-4d05-843b-13b.jpg",
+      "label": "Special Miami GP 2022 helmet view 4",
+      "bytes": 505324
+    },
+    "/assets/max/special-belgian-gp-2021-helmet-view-4-7330f72d.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Belgie_GP_2021_helm/08MT012383_20210826111427848_20210826112204546_copy-8b.jpg",
+      "label": "Special Belgian GP 2021 helmet view 4",
+      "bytes": 535504
+    },
+    "/assets/max/special-brazil-gp-2021-helmet-view-4-fa23201e.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Brazilie_GP_2021_helm/09ED-MT013590_2021111110725368_2021111140923212-12b.jpg",
+      "label": "Special Brazil GP 2021 helmet view 4",
+      "bytes": 560819
+    },
+    "/assets/max/helmet-2021-max-verstappen-view-4-b8554ff5.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Helm_2021_Max_Verstappen/MT021176_2021022442613278-6b.jpg",
+      "label": "Helmet 2021 Max Verstappen view 4",
+      "bytes": 382977
+    },
+    "/assets/max/special-austrian-2022-helmet-view-4-9ffbbd19.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Oostenrijk_2022_helm/09PP_220614_F1DS_0095-9b.jpg",
+      "label": "Special Austrian 2022 helmet view 4",
+      "bytes": 615212
+    },
+    "/assets/max/special-dutch-gp-2021-helmet-view-4-8faf1782.jpg": {
+      "url": "https://news.verstappen.com/img/2021/Speciale_Dutch_GP_2021_helm/09MT012445_20210826111427852_20210826112159597_copy-34b.jpg",
+      "label": "Special Dutch GP 2021 helmet view 4",
+      "bytes": 510550
+    },
+    "/assets/max/special-miami-gp-2023-helmet-view-2-019d917f.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_Miami_GP_2023_helm/17_0L6A5734_syPAS4i7_EC085JWs-16b.jpg",
+      "label": "Special Miami GP 2023 helmet view 2",
+      "bytes": 716995
+    },
+    "/assets/max/special-dutch-gp-2022-helmet-view-3-b2a5064f.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Dutch_GP_2022_helm/MV_DGP_2022_Helmet_25-26b.jpg",
+      "label": "Special Dutch GP 2022 helmet view 3",
+      "bytes": 668648
+    },
+    "/assets/max/special-miami-gp-2023-helmet-view-3-0340fa69.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_Miami_GP_2023_helm/16_MV-MIAMI-RETOUCH-01-15b.jpg",
+      "label": "Special Miami GP 2023 helmet view 3",
+      "bytes": 424266
+    },
+    "/assets/max/special-orange-tribute-helmet-view-1-e983325e.jpg": {
+      "url": "https://news.verstappen.com/img/2024/Speciale_Orange_Tribute_helm/DK24-MODENA-00035-10b.jpg",
+      "label": "Special Orange Tribute helmet view 1",
+      "bytes": 594580
+    },
+    "/assets/max/special-miami-gp-2023-helmet-view-4-c00650ab.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_Miami_GP_2023_helm/15_MV-MIAMI-RETOUCH-02-14b.jpg",
+      "label": "Special Miami GP 2023 helmet view 4",
+      "bytes": 459175
+    },
+    "/assets/max/special-usa-2024-helmet-view-1-0950fa0d.jpg": {
+      "url": "https://news.verstappen.com/img/2024/Speciale_USA_2024_helm/MV_USA_2024_Helmet_33-33b.jpg",
+      "label": "Special USA 2024 helmet view 1",
+      "bytes": 583044
+    },
+    "/assets/max/special-japan-2023-helmet-view-1-b55c67ab.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_Japan_2023_helm/130L8A0077_wk4dPKxE_dlhk9cu9-13b.jpg",
+      "label": "Special Japan 2023 helmet view 1",
+      "bytes": 560661
+    },
+    "/assets/max/season-helmet-2025-view-1-dea62137.jpg": {
+      "url": "https://news.verstappen.com/img/2025/Seizoenshelm_2025/18DK241393-Edit-newv2-19b.jpg",
+      "label": "Season helmet 2025 view 1",
+      "bytes": 528957
+    },
+    "/assets/max/special-retro-helmet-view-1-e0a4deb0.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_retro_helm/130L8A7469_ZZElhkyz_ED-13b.jpg",
+      "label": "Special retro helmet view 1",
+      "bytes": 576389
+    },
+    "/assets/max/special-dutch-gp-2022-helmet-view-4-ce2ba913.jpg": {
+      "url": "https://news.verstappen.com/img/2022/Speciale_Dutch_GP_2022_helm/MV_DGP_2022_Helmet_24-25b.jpg",
+      "label": "Special Dutch GP 2022 helmet view 4",
+      "bytes": 797932
+    },
+    "/assets/max/special-usa-2024-helmet-view-2-00d1f20a.jpg": {
+      "url": "https://news.verstappen.com/img/2024/Speciale_USA_2024_helm/MV_USA_2024_Helmet_32-32b.jpg",
+      "label": "Special USA 2024 helmet view 2",
+      "bytes": 605106
+    },
+    "/assets/max/special-orange-tribute-helmet-view-2-8fd77d97.jpg": {
+      "url": "https://news.verstappen.com/img/2024/Speciale_Orange_Tribute_helm/DK24-MODENA-00033-9b.jpg",
+      "label": "Special Orange Tribute helmet view 2",
+      "bytes": 523594
+    },
+    "/assets/max/special-japan-2023-helmet-view-2-0e7ae094.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_Japan_2023_helm/120L8A0087_y70KpRLM_HJ9GCuxu-12b.jpg",
+      "label": "Special Japan 2023 helmet view 2",
+      "bytes": 660337
+    },
+    "/assets/max/special-retro-helmet-view-2-4602c9a1.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_retro_helm/120L8A7737_Y45D6gWl_ED-12b.jpg",
+      "label": "Special retro helmet view 2",
+      "bytes": 537846
+    },
+    "/assets/max/season-helmet-2025-view-2-5f91ce99.jpg": {
+      "url": "https://news.verstappen.com/img/2025/Seizoenshelm_2025/17DK241395-Edit-newv2-18b.jpg",
+      "label": "Season helmet 2025 view 2",
+      "bytes": 548269
+    },
+    "/assets/max/special-usa-2024-helmet-view-3-3cccc2ac.jpg": {
+      "url": "https://news.verstappen.com/img/2024/Speciale_USA_2024_helm/MV_USA_2024_Helmet_31-31b.jpg",
+      "label": "Special USA 2024 helmet view 3",
+      "bytes": 638868
+    },
+    "/assets/max/special-japan-2023-helmet-view-3-922eb6a9.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_Japan_2023_helm/110L6A9348_HVOaRxXf_CaXQyJ7h-11b.jpg",
+      "label": "Special Japan 2023 helmet view 3",
+      "bytes": 697363
+    },
+    "/assets/max/special-retro-helmet-view-3-28c92160.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_retro_helm/110L8A7811_bA9rB9HZ_ED-11b.jpg",
+      "label": "Special retro helmet view 3",
+      "bytes": 627168
+    },
+    "/assets/max/special-orange-tribute-helmet-view-3-8a6911dc.jpg": {
+      "url": "https://news.verstappen.com/img/2024/Speciale_Orange_Tribute_helm/MV_Orange_Tribute_Helmet_2024_7-8b.jpg",
+      "label": "Special Orange Tribute helmet view 3",
+      "bytes": 520610
+    },
+    "/assets/max/season-helmet-2025-view-3-4d7811fa.jpg": {
+      "url": "https://news.verstappen.com/img/2025/Seizoenshelm_2025/16DK241396-Edit-newv2-17b.jpg",
+      "label": "Season helmet 2025 view 3",
+      "bytes": 549729
+    },
+    "/assets/max/special-japan-2023-helmet-view-4-ebd4a360.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_Japan_2023_helm/100L6A9331_7xADC52y_SjH1KIPz-10b.jpg",
+      "label": "Special Japan 2023 helmet view 4",
+      "bytes": 653136
+    },
+    "/assets/max/special-retro-helmet-view-4-cc2d67a8.jpg": {
+      "url": "https://news.verstappen.com/img/2023/Speciale_retro_helm/100L8A7824_TGJMNJu5_ED-10b.jpg",
+      "label": "Special retro helmet view 4",
+      "bytes": 560344
+    },
+    "/assets/max/season-helmet-2025-view-4-d2794cdb.jpg": {
+      "url": "https://news.verstappen.com/img/2025/Seizoenshelm_2025/15DK241397-Edit-newv2-16b.jpg",
+      "label": "Season helmet 2025 view 4",
+      "bytes": 542512
+    },
+    "/assets/max/special-usa-2024-helmet-view-4-ef96cc27.jpg": {
+      "url": "https://news.verstappen.com/img/2024/Speciale_USA_2024_helm/MV_USA_2024_Helmet_15-15b.jpg",
+      "label": "Special USA 2024 helmet view 4",
+      "bytes": 602946
+    },
+    "/assets/max/special-orange-tribute-helmet-view-4-6cb6ec61.jpg": {
+      "url": "https://news.verstappen.com/img/2024/Speciale_Orange_Tribute_helm/MV_Orange_Tribute_Helmet_2024_6-7b.jpg",
+      "label": "Special Orange Tribute helmet view 4",
+      "bytes": 574542
+    },
+    "/assets/max/2026-orange-lion-helmet-fafdc34c.jpg": {
+      "url": "https://images.footballfanatics.com/red-bull-racing/oracle-red-bull-racing-max-verstappen-1:2-2026-orange-helmet_ss5_p-204169262+u-zjcshrxyfiwjj9a7qyri+v-qijrbowjihblxefcsu9x.jpg?_hv=2&w=900",
+      "label": "2026 Orange Lion Helmet",
+      "bytes": 163050
+    },
+    "/assets/max/2026-dutch-gp-helmet-3d525c58.jpg": {
+      "url": "https://images.footballfanatics.com/red-bull-racing/max-verstappen-red-bull-racing-2026-dutch-gp-helmet-1:2-model_ss5_p-204169264+u-uncjf1n2kicc4yaumojt+v-pfbrnjvqrixpj5eopf86.jpg?_hv=2&w=900",
+      "label": "2026 Dutch GP Helmet",
+      "bytes": 148717
+    },
+    "/assets/max/2026-season-helmet-d34220b6.jpg": {
+      "url": "https://images.footballfanatics.com/red-bull-racing/max-verstappen-red-bull-racing-2026-season-helmet-1:2-model_ss5_p-203810714+u-euyalyto92umx6emfelu+v-cbygywjvn7wjm3qvfy9k.jpg?_hv=2&w=900",
+      "label": "2026 Season Helmet",
+      "bytes": 125567
+    },
+    "/assets/max/2026-gt3-helmet-51e2c1ef.png": {
+      "url": "https://images.footballfanatics.com/max-verstappen/max-verstappen-2026-gt3-helmet-1:2-model_ss5_p-204148729+u-9t6v5zuoklyjqq6csy0j+v-ymakfslalsnmexwnmnla.png?_hv=2&w=900",
+      "label": "2026 GT3 Helmet",
+      "bytes": 1500441
+    },
+    "/assets/max/2017-season-helmet-b5fb9e8b.jpg": {
+      "url": "https://images.footballfanatics.com/red-bull-racing/max-verstappen-red-bull-racing-2017-season-helmet-1:4-model_ss5_p-203856028+u-gcgliiafpq1hthklnodh+v-tbfkifexsfzdxk7hrvsx.jpg?_hv=2&w=900",
+      "label": "2017 Season Helmet",
+      "bytes": 79578
+    },
+    "/assets/max/2014-formula-3-helmet-aa8b1c7e.jpg": {
+      "url": "https://images.footballfanatics.com/formula-3-merchandise/max-verstappen-2014-formula-3-helmet-1:4-model_ss5_p-203856030+u-zgdzmkfwyty4pl19vnbx+v-btmwkmrq4mokxmh7tjre.jpg?_hv=2&w=900",
+      "label": "2014 Formula 3 Helmet",
+      "bytes": 109020
+    },
+    "/assets/max/red-bull-hero-68ae9eb9.jpg": {
+      "url": "https://img.redbull.com/images/c_fill,g_auto,w_2000,h_1000/q_auto,f_webp/redbullcom/2026/1/19/jedrdsmhfsrasewnlvei/max-verstappen-2026-oracle-red-bull-racing",
+      "label": "red-bull-hero",
+      "bytes": 194410
+    },
+    "/assets/max/casual-hero-68d2b7ae.jpg": {
+      "url": "https://www.verstappen.com/img/thumb/thumb.php?src=/img/banner/143_20d5c83_DESKTOP_Max_Varsity_new.jpg&w=1500",
+      "label": "casual-hero",
+      "bytes": 248762
+    },
+    "/assets/max/store-wordmark-b6b0b404.svg": {
+      "url": "https://www.verstappen.com/_verstappenshop/img/verstappen-com-white.svg",
+      "label": "store-wordmark",
+      "bytes": 3549
+    },
+    "/assets/max/mv-logo-ae9d7d41.svg": {
+      "url": "https://www.verstappen.com/_shoppingcart/img/landingpage/mv.svg",
+      "label": "mv-logo",
+      "bytes": 2216
+    },
+    "/assets/max/partner-alphatauri-e91d5e48.png": {
+      "url": "https://news.verstappen.com/images/partner12-alphatauri.png",
+      "label": "partner-alphatauri",
+      "bytes": 6982
+    },
+    "/assets/max/partner-red-bull-ee4ae660.png": {
+      "url": "https://news.verstappen.com/images/partner2.png",
+      "label": "partner-red-bull",
+      "bytes": 27661
+    },
+    "/assets/max/partner-red-bull-racing-77ade49f.png": {
+      "url": "https://news.verstappen.com/images/partner1-2022.png",
+      "label": "partner-red-bull-racing",
+      "bytes": 25296
+    },
+    "/assets/max/portrait-full-fe0b61db.png": {
+      "url": "https://news.verstappen.com/images/max_verstappen_racegear_footer.png",
+      "label": "portrait-full",
+      "bytes": 141342
+    },
+    "/assets/max/portrait-964441c9.webp": {
+      "url": "https://media.formula1.com/image/upload/c_fill,w_1000/q_auto/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+      "label": "portrait",
+      "bytes": 225022
+    },
+    "/assets/max/partner-heineken-1913b016.png": {
+      "url": "https://news.verstappen.com/images/partner11-heineken00.png",
+      "label": "partner-heineken",
+      "bytes": 12238
+    },
+    "/assets/max/partner-viaplay-5000b928.png": {
+      "url": "https://news.verstappen.com/images/partner5-2022.png",
+      "label": "partner-viaplay",
+      "bytes": 12376
+    },
+    "/assets/max/store-banner-882712e3.jpg": {
+      "url": "https://news.verstappen.com/images/banner_webshop_V2026-1-en.jpg",
+      "label": "store-banner",
+      "bytes": 84127
+    },
+    "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-1-d8770553.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Bahrein_in_Maleisie_-_Kuala_Lumpur/SI202610040501_hires_jpeg_24bit_rgb-19b.jpg",
+      "label": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur photo 1",
+      "bytes": 739059
+    },
+    "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-2-31e33314.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Bahrein_in_Maleisie_-_Kuala_Lumpur/SI202610040319_hires_jpeg_24bit_rgb-15b.jpg",
+      "label": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur photo 2",
+      "bytes": 704420
+    },
+    "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-3-8c71419f.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Bahrein_in_Maleisie_-_Kuala_Lumpur/SI202610040318_hires_jpeg_24bit_rgb-14b.jpg",
+      "label": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur photo 3",
+      "bytes": 650829
+    },
+    "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-4-c1a6a1d9.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Bahrein_in_Maleisie_-_Kuala_Lumpur/SI202610040321_hires_jpeg_24bit_rgb-13b.jpg",
+      "label": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur photo 4",
+      "bytes": 732592
+    },
+    "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-5-f96fe54d.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Bahrein_in_Maleisie_-_Kuala_Lumpur/SI202610040310_hires_jpeg_24bit_rgb-10b.jpg",
+      "label": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur photo 5",
+      "bytes": 546517
+    },
+    "/assets/max/formula-1-gp-bahrain-in-malaysia-kuala-lumpur-photo-6-ab65de71.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Bahrein_in_Maleisie_-_Kuala_Lumpur/SI202610040286_hires_jpeg_24bit_rgb-7b.jpg",
+      "label": "Formula 1 GP Bahrain in Malaysia - Kuala Lumpur photo 6",
+      "bytes": 580594
+    },
+    "/assets/max/max-vs-100-photo-1-eb27c034.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Max_vs_100/Predrag_Vuckovic_20260916_MAXVS100_9630-39b.jpg",
+      "label": "Max vs 100 photo 1",
+      "bytes": 543583
+    },
+    "/assets/max/max-vs-100-photo-2-8f5f72d7.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Max_vs_100/Predrag_Vuckovic_20260916_MAXVS100_9094-38b.jpg",
+      "label": "Max vs 100 photo 2",
+      "bytes": 662612
+    },
+    "/assets/max/max-vs-100-photo-3-a81ee99d.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Max_vs_100/Predrag_Vuckovic_20260916_MAXVS100_7171-37b.jpg",
+      "label": "Max vs 100 photo 3",
+      "bytes": 546188
+    },
+    "/assets/max/max-vs-100-photo-4-5b311791.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Max_vs_100/Predrag_Vuckovic_20260916_MAXVS100_7154-36b.jpg",
+      "label": "Max vs 100 photo 4",
+      "bytes": 600247
+    },
+    "/assets/max/max-vs-100-photo-5-13d59643.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Max_vs_100/Predrag_Vuckovic_20260916_MAXVS100_7053-35b.jpg",
+      "label": "Max vs 100 photo 5",
+      "bytes": 571147
+    },
+    "/assets/max/max-vs-100-photo-6-6a2b496b.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Max_vs_100/Predrag_Vuckovic_20260916_MAXVS100_10224-34b.jpg",
+      "label": "Max vs 100 photo 6",
+      "bytes": 603468
+    },
+    "/assets/max/formula-1-gp-italy-monza-photo-1-6a5d0cb9.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Italie_-_Monza/SI202609060857_hires_jpeg_24bit_rgb-22b.jpg",
+      "label": "Formula 1 GP Italy - Monza photo 1",
+      "bytes": 574031
+    },
+    "/assets/max/formula-1-gp-italy-monza-photo-2-04e32d2f.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Italie_-_Monza/SI202609060854_hires_jpeg_24bit_rgb-21b.jpg",
+      "label": "Formula 1 GP Italy - Monza photo 2",
+      "bytes": 727003
+    },
+    "/assets/max/formula-1-gp-italy-monza-photo-3-ebc10f37.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Italie_-_Monza/SI202609060853_hires_jpeg_24bit_rgb-20b.jpg",
+      "label": "Formula 1 GP Italy - Monza photo 3",
+      "bytes": 822972
+    },
+    "/assets/max/formula-1-gp-italy-monza-photo-4-a9b2d84a.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Italie_-_Monza/F12026GP13ITA_JK1518270-18b.jpg",
+      "label": "Formula 1 GP Italy - Monza photo 4",
+      "bytes": 999577
+    },
+    "/assets/max/formula-1-gp-italy-monza-photo-5-e8172294.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Italie_-_Monza/260906_R13_ITALIA_DP_EAR10721-17b.jpg",
+      "label": "Formula 1 GP Italy - Monza photo 5",
+      "bytes": 547665
+    },
+    "/assets/max/formula-1-gp-italy-monza-photo-6-2173fa23.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Italie_-_Monza/SI202609060763_hires_jpeg_24bit_rgb-14b.jpg",
+      "label": "Formula 1 GP Italy - Monza photo 6",
+      "bytes": 533426
+    },
+    "/assets/max/formula-1-dutch-gp-zandvoort-photo-1-ee192d32.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_Dutch_GP_-_Zandvoort/260823_R12_OLANDA_DP_FGOO3381-3b.jpg",
+      "label": "Formula 1 Dutch GP - Zandvoort photo 1",
+      "bytes": 721582
+    },
+    "/assets/max/formula-1-dutch-gp-zandvoort-photo-2-6868cd3f.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_Dutch_GP_-_Zandvoort/260823_R12_OLANDA_DP_FGOO3352-2b.jpg",
+      "label": "Formula 1 Dutch GP - Zandvoort photo 2",
+      "bytes": 877071
+    },
+    "/assets/max/formula-1-dutch-gp-zandvoort-photo-3-9e01cca7.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_Dutch_GP_-_Zandvoort/SI202608230239_hires_jpeg_24bit_rgb-1b.jpg",
+      "label": "Formula 1 Dutch GP - Zandvoort photo 3",
+      "bytes": 612376
+    },
+    "/assets/max/formula-1-dutch-gp-zandvoort-photo-4-91ee05ed.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_Dutch_GP_-_Zandvoort/SI202608230178_hires_jpeg_24bit_rgb-4b.jpg",
+      "label": "Formula 1 Dutch GP - Zandvoort photo 4",
+      "bytes": 428438
+    },
+    "/assets/max/formula-1-dutch-gp-zandvoort-photo-5-cc8327bd.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_Dutch_GP_-_Zandvoort/SI202608220206_hires_jpeg_24bit_rgb-45b.jpg",
+      "label": "Formula 1 Dutch GP - Zandvoort photo 5",
+      "bytes": 745101
+    },
+    "/assets/max/formula-1-dutch-gp-zandvoort-photo-6-a9bb9a35.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_Dutch_GP_-_Zandvoort/260822_R12_OLANDA_DP_AV5_0511-42b.jpg",
+      "label": "Formula 1 Dutch GP - Zandvoort photo 6",
+      "bytes": 731309
+    },
+    "/assets/max/formula-1-gp-great-britain-silverstone-photo-1-7cc2c2da.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Groot-Brittannie_-_Silverstone/260705_R09_GRANBRETAGNA_DP_FGO09451-16b.jpg",
+      "label": "Formula 1 GP Great Britain - Silverstone photo 1",
+      "bytes": 672713
+    },
+    "/assets/max/formula-1-gp-great-britain-silverstone-photo-2-442c23bc.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Groot-Brittannie_-_Silverstone/260705_R09_GRANBRETAGNA_DP_FGO09334-15b.jpg",
+      "label": "Formula 1 GP Great Britain - Silverstone photo 2",
+      "bytes": 570801
+    },
+    "/assets/max/formula-1-gp-great-britain-silverstone-photo-3-ce8339bd.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Groot-Brittannie_-_Silverstone/260705_R09_GRANBRETAGNA_DP_FGO09244-14b.jpg",
+      "label": "Formula 1 GP Great Britain - Silverstone photo 3",
+      "bytes": 625100
+    },
+    "/assets/max/formula-1-gp-great-britain-silverstone-photo-4-d86f4dd1.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Groot-Brittannie_-_Silverstone/260705_R09_GRANBRETAGNA_DP_FGO09219-13b.jpg",
+      "label": "Formula 1 GP Great Britain - Silverstone photo 4",
+      "bytes": 608754
+    },
+    "/assets/max/formula-1-gp-great-britain-silverstone-photo-5-f2f93351.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Groot-Brittannie_-_Silverstone/SI202607050459-12b.jpg",
+      "label": "Formula 1 GP Great Britain - Silverstone photo 5",
+      "bytes": 635109
+    },
+    "/assets/max/formula-1-gp-great-britain-silverstone-photo-6-a3c4c063.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Groot-Brittannie_-_Silverstone/SI202607050454_hires_jpeg_24bit_rgb-11b.jpg",
+      "label": "Formula 1 GP Great Britain - Silverstone photo 6",
+      "bytes": 680914
+    },
+    "/assets/max/formula-1-gp-austria-red-bull-ring-photo-1-11f6363e.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Oostenrijk_-_Red_Bull_Ring/SI202606280664-17b.jpg",
+      "label": "Formula 1 GP Austria - Red Bull Ring photo 1",
+      "bytes": 745829
+    },
+    "/assets/max/formula-1-gp-austria-red-bull-ring-photo-2-0a0cf001.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Oostenrijk_-_Red_Bull_Ring/SI202606280632-16b.jpg",
+      "label": "Formula 1 GP Austria - Red Bull Ring photo 2",
+      "bytes": 587493
+    },
+    "/assets/max/formula-1-gp-austria-red-bull-ring-photo-3-e14ed7a8.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Oostenrijk_-_Red_Bull_Ring/SI202606280626-15b.jpg",
+      "label": "Formula 1 GP Austria - Red Bull Ring photo 3",
+      "bytes": 586931
+    },
+    "/assets/max/formula-1-gp-austria-red-bull-ring-photo-4-44e3c7bb.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Oostenrijk_-_Red_Bull_Ring/SI202606280628-14b.jpg",
+      "label": "Formula 1 GP Austria - Red Bull Ring photo 4",
+      "bytes": 577324
+    },
+    "/assets/max/formula-1-gp-austria-red-bull-ring-photo-5-30ee9c77.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Oostenrijk_-_Red_Bull_Ring/SI202606280531-13b.jpg",
+      "label": "Formula 1 GP Austria - Red Bull Ring photo 5",
+      "bytes": 554394
+    },
+    "/assets/max/formula-1-gp-austria-red-bull-ring-photo-6-6de1f74d.jpg": {
+      "url": "https://news.verstappen.com/img/2026/Formule_1_GP_Oostenrijk_-_Red_Bull_Ring/SI202606280403-12b.jpg",
+      "label": "Formula 1 GP Austria - Red Bull Ring photo 6",
+      "bytes": 711255
+    },
+    "/assets/max/sepang-track.png": {
+      "url": "https://news.verstappen.com/images/calendar2025/malaysia/track.png",
+      "label": "Official Sepang circuit map",
+      "bytes": 319894
+    },
+    "/assets/max/red-bull-rb22.webp": {
+      "url": "https://media.formula1.com/image/upload/c_lfill%2Cw_1800/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracingcarright.webp",
+      "sourcePage": "https://www.formula1.com/en/teams/red-bull-racing",
+      "label": "Official 2026 Red Bull Racing RB22, right-facing, number 3",
+      "reuse": "Formula One image rights reserved; no open licence identified.",
+      "bytes": 117834
+    },
+    "/assets/max/hero-head.png": {
+      "url": "https://media.formula1.com/image/upload/c_fill,w_1000/q_auto/v1740000001/common/f1/2026/redbullracing/maxver01/2026redbullracingmaxver01right.webp",
+      "label": "Max Verstappen floating head",
+      "derivedFrom": "/assets/max/portrait-964441c9.webp",
+      "edit": "Imagegen photographic head cutout with transparent background; no full-body racewear.",
+      "bytes": 1902978
+    },
+    "/assets/max/hero-helmet.png": {
+      "url": "https://images.footballfanatics.com/red-bull-racing/max-verstappen-red-bull-racing-2026-season-helmet-1:2-model_ss5_p-203810714+u-euyalyto92umx6emfelu+v-cbygywjvn7wjm3qvfy9k.jpg?_hv=2&w=900",
+      "label": "Max Verstappen 2026 helmet cutout",
+      "derivedFrom": "/assets/max/2026-season-helmet-d34220b6.jpg",
+      "edit": "Imagegen transparent-background cutout of the official scale-replica photograph.",
+      "bytes": 1857992
+    }
+  }
+}
