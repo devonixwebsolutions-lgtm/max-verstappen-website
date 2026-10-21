@@ -52,7 +52,10 @@ def all_common(doc,page):
     for m in doc.xpath('//meta[@property="og:title"]|//meta[@name="twitter:title"]'):m.set('content','Max Verstappen — Born to Race')
     for m in doc.xpath('//meta[@property="og:image"]|//meta[@name="twitter:image"]'):m.set('content',FIX.get('red-bull-hero') or TRACK[0]['src'])
     for n in doc.xpath('//link[@rel="canonical"]|//meta[@property="og:url"]'):remove(n)
-    for n in doc.xpath('//link[@rel="icon"]|//link[@rel="apple-touch-icon"]'):n.set('href',FIX['mv-logo'])
+    for n in doc.xpath('//link[contains(concat(" ", normalize-space(@rel), " "), " icon ")]'):
+        n.set('href','/assets/max/max-verstappen-favicon.svg')
+        n.set('type','image/svg+xml')
+    for n in doc.xpath('//link[@rel="apple-touch-icon"]'):n.set('href',FIX['mv-logo'])
     for n in cls(doc,'nav-brand'):
         inner(n,LOGO);n.set('aria-label','Max Verstappen');n.set('class',n.get('class')+' mv-brand')
     for n in cls(doc,'page-ln4-svg'):inner(n,f'<img class="mv-nav-monogram" src="{FIX["mv-logo"]}" alt="Max Verstappen monogram">')

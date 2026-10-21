@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Max Verstappen logo">
+<rect width="64" height="64" rx="12" fill="#07152f"/>
+<g transform="translate(5 18.5) scale(0.08013)">
+<path d="M561.703 156.65L673.914 268.775H449.493L561.703 156.65Z" fill="white"/>
+<path d="M112.21 156.65L224.747 268.775H0L112.21 156.65Z" fill="white"/>
+<path d="M336.957 335.725L0 0L213.33 33.475L336.957 156.65L460.584 33.475L673.914 0L336.957 335.725Z" fill="white"/>
+</g>
+</svg>
